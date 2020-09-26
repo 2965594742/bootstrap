@@ -1,0 +1,4 @@
+com\ljl\vo\UserInfo.class
+com\ljl\dao\UserDao.class
+com\ljl\App.class
+com\ljl\utils\DateConverter.class
